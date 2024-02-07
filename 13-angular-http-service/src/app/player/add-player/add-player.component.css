@@ -1,0 +1,9 @@
+.table {
+    box-sizing: content-box;
+border: 2px solid;
+color:black;
+background-color:white;
+text-align: center;
+margin: 10px;
+align-content: center; 
+}

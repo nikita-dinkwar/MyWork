@@ -1,0 +1,22 @@
+{
+  "players": [
+    {
+      "id": "111",
+      "playerId": "10001",
+      "playerName": "MS Dhoni",
+      "playerAge": "42"
+    },
+    {
+      "id": "1112",
+      "playerId": "1112",
+      "playerName": "MS Dhoni",
+      "playerAge": "33"
+    },
+    {
+      "id": "1123",
+      "playerId": "1123",
+      "playerName": "Rohit",
+      "playerAge": "34"
+    }
+  ]
+}

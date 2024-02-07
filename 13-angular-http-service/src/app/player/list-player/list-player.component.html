@@ -1,0 +1,17 @@
+<table class="table table-bordered">
+    <thead>
+<tr>
+    <th>Player Id</th>
+    <th> Player Name</th>
+    <th> Player Age</th>
+</tr>
+
+    </thead>
+    <tbody>
+        <tr *ngFor="let player of players">
+            <td>{{player.playerId}}</td>
+            <td>{{player.playerName}}</td>
+           <td>{{player.playerAge }}</td>
+           </tr>
+    </tbody>
+</table>
